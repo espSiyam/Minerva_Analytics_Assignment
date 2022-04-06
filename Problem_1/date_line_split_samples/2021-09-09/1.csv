@@ -1,0 +1,11 @@
+lineId,vehiclePositions
+1,"{'directionId': '8161', 'distanceFromPoint': 1, 'pointId': '8272'}"
+1,"{'directionId': '8162', 'distanceFromPoint': 0, 'pointId': '8162'}"
+1,"{'directionId': '8161', 'distanceFromPoint': 0, 'pointId': '8733'}"
+1,"{'directionId': '8162', 'distanceFromPoint': 1, 'pointId': '8062'}"
+1,"{'directionId': '8161', 'distanceFromPoint': 0, 'pointId': '8112'}"
+1,"{'directionId': '8731', 'distanceFromPoint': 1, 'pointId': '8161'}"
+1,"{'directionId': '8731', 'distanceFromPoint': 0, 'pointId': '8051'}"
+1,"{'directionId': '8731', 'distanceFromPoint': 0, 'pointId': '8271'}"
+1,"{'directionId': '8731', 'distanceFromPoint': 1, 'pointId': '8291'}"
+1,"{'directionId': '8731', 'distanceFromPoint': 0, 'pointId': '8101'}"
